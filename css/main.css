@@ -1,0 +1,16 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border: black solid 1px;
+	margin: 5px 
+}
+.alineados{
+	display:inline-block;
+}
+.pdd{
+	padding: 10px 5px;
+	width: 350px;
+	height: 110px;
+}
+
